@@ -30,3 +30,6 @@ intersect(byArabidopsisExon$V5, byTomatoExon$V5)
 inters<- importGFF3("./chr1_intersectBed_f_90.gff")
 
 nrow(subset(inters, inters$V3=="gene"))
+
+inters2 <- importGFF3("./chr1_intersectBed_r_f_90.gff")
+nrow(subset(inters2, inters2$V3=="gene"))
