@@ -25,3 +25,8 @@ byArabidopsisExon <- subset(byArabidopsis, byArabidopsis$V3 == "gene")
 
 intersect(byArabidopsisExon$V4, byTomatoExon$V4) 
 intersect(byArabidopsisExon$V5, byTomatoExon$V5) 
+
+
+inters<- importGFF3("./chr1_intersectBed_f_90.gff")
+
+nrow(subset(inters, inters$V3=="gene"))
