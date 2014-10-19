@@ -1,0 +1,132 @@
+Use of uninitialized value $name in -e at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/gm_es.pl line 659.
+Use of uninitialized value $name in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/gm_es.pl line 659.
+No such file or directory, 
+drozdovapb@drozdovapb-Z930:~$ cd /media/drozdovapb/big/Studies/bioinformaticsinstitute/bioinfo-lab-14/
+drozdovapb@drozdovapb-Z930:/media/drozdovapb/big/Studies/bioinformaticsinstitute/bioinfo-lab-14$ /home/drozdovapb/apt/gmes_bp_linux_64/gmes/gm_es.pl ./coffee_raw_data/chr1.fna
+running hmm2nt.a2
+1 files IN
+Clusters were defined as:
+ 0 <= GC% <= 99
+99 < GC% <= 99
+99 < GC% <= 100
+
+Parsing dna.fa.good.cod
+
+Program complete
+----------------
+Use of uninitialized value $total_num_of_seqs in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_clusters.cod line 84, <COD> line 1.
+ sequences found
+1 dna.fa.good.ini
+zero order for Ini
+GC Range: (0,99)
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 104, <IN> line 1.
+0 sequences of length  used from 0
+total sequences in dna.fa.good.ini
+Generating model...
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 110, <IN> line 1.
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+T    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+C    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+A    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+G    
+Done
+1 lines read from dna.fa.good.ter
+0 sequences obtained
+1 comment lines
+0 lines contained no sequence (or improperly formatted seq)
+0 sequences used TAA
+0 sequences used TAG
+0 sequences used TGA
+0 sequences did not begin with a stop codon
+All lines accounted for
+Done
+0 dna.fa.good.taa
+zero order for TAA
+GC Range: (0,99)
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 104.
+0 sequences of length  used from 0
+total sequences in dna.fa.good.taa
+Generating model...
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 110.
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+T    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+C    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+A    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+G    
+Done
+0 dna.fa.good.tag
+zero order for TAG
+GC Range: (0,99)
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 104.
+0 sequences of length  used from 0
+total sequences in dna.fa.good.tag
+Generating model...
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 110.
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+T    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+C    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+A    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+G    
+Done
+0 dna.fa.good.tga
+zero order for TGA
+GC Range: (0,99)
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 104.
+0 sequences of length  used from 0
+total sequences in dna.fa.good.tga
+Generating model...
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 110.
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+T    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+C    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+A    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117.
+G    
+Done
+1 dna.fa.good.don
+zero order for DON
+GC Range: (0,99)
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 104, <IN> line 1.
+0 sequences of length  used from 0
+total sequences in dna.fa.good.don
+Generating model...
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 110, <IN> line 1.
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+T    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+C    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+A    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+G    
+Done
+1 dna.fa.good.acc
+zero order for ACC
+GC Range: (0,99)
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 104, <IN> line 1.
+0 sequences of length  used from 0
+total sequences in dna.fa.good.acc
+Generating model...
+Use of uninitialized value $length in concatenation (.) or string at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 110, <IN> line 1.
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+T    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+C    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+A    
+Use of uninitialized value $length in subtraction (-) at /home/drozdovapb/apt/gmes_bp_linux_64/gmes/make_nt_freq.mat line 117, <IN> line 1.
+G    
+Done
+error in file format, org_S1.0mtx
+Error on system: prediction step
