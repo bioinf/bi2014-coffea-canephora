@@ -1,0 +1,59 @@
+==================================================
+file name: chr1.fna                 
+sequences:             1
+total length:   38193400 bp  (30728063 bp excl N/X-runs)
+GC level:         36.14 %
+bases masked:    1632178 bp ( 4.27 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements          841       849585 bp    2.22 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              111        32297 bp    0.08 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4           111        32297 bp    0.08 %
+   LTR elements:       730       817288 bp    2.14 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia         296       328851 bp    0.86 %
+     Gypsy/DIRS1       431       487305 bp    1.28 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons        246        49637 bp    0.13 %
+   hobo-Activator       77        16928 bp    0.04 %
+   Tc1-IS630-Pogo       18         1956 bp    0.01 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     1          226 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:          143        48891 bp    0.13 %
+
+Total interspersed repeats:      948113 bp    2.48 %
+
+
+Small RNA:              12         1876 bp    0.00 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      12125       527308 bp    1.38 %
+Low complexity:       2993       155668 bp    0.41 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be oryza sativa  
+RepeatMasker version open-4.0.5 , default mode
+                                   
+run with rmblastn version 2.2.27+
+RepBase Update 20140131, RM database version 20140131
