@@ -1,0 +1,59 @@
+==================================================
+file name: chr1.fna                 
+sequences:             1
+total length:   38193400 bp  (30728063 bp excl N/X-runs)
+GC level:         36.14 %
+bases masked:    1653432 bp ( 4.33 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1029       869163 bp    2.28 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              145        22491 bp    0.06 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4           145        22491 bp    0.06 %
+   LTR elements:       884       846672 bp    2.22 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia         349       361735 bp    0.95 %
+     Gypsy/DIRS1       535       484937 bp    1.27 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons        220        46689 bp    0.12 %
+   hobo-Activator      131        28258 bp    0.07 %
+   Tc1-IS630-Pogo        0            0 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger    17          844 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:           56        41852 bp    0.11 %
+
+Total interspersed repeats:      957704 bp    2.51 %
+
+
+Small RNA:              12         1876 bp    0.00 %
+
+Satellites:              7          508 bp    0.00 %
+Simple repeats:      12233       536270 bp    1.40 %
+Low complexity:       3014       157560 bp    0.41 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be zea           
+RepeatMasker version open-4.0.5 , default mode
+                                   
+run with rmblastn version 2.2.27+
+RepBase Update 20140131, RM database version 20140131
