@@ -1,0 +1,11 @@
+LABEL          tmp.seq >dna.fa_1	1_dna	1	38193400
+SEQUENCE_SIZE  38193400
+SEQUENCE_ACGT  30727978
+NT_A           9815614
+NT_C           5537776
+NT_G           5567438
+NT_T           9807150
+NT_N           7465422
+GC             36.1
+RECORDS        1
+
