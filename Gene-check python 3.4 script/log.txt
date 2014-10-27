@@ -1,0 +1,58 @@
+anonym@anonympc:~/PycharmProjects/untitled$ python3 gene-check.py -sff //home/anonym/PycharmProjects/untitled/pseudomolecules.fa -saf //home/anonym/PycharmProjects/untitled/ex_out -pn exonerate -m 1
+/usr/local/lib/python3.4/dist-packages/Bio/SearchIO/__init__.py:213: BiopythonExperimentalWarning: Bio.SearchIO is an experimental submodule which may undergo significant changes prior to its future official release.
+  BiopythonExperimentalWarning)
+Real destination for output: result_of_gene-check.fasta
+Step 1 - Reading protein alignment
+Step 2 - Reading source fasta
+Step 3 - Gene-check
+Step 3.1 - CheckOpenReadingFrame And ExoneIntroneStructure
+--------------------------------------
+Сейчас проверяется белок p03
+Результат утвержден!
+Хромосома: chr4
+Белок: p03
+Позиция начала: 14628102
+Вероятный сайт связывания(для дальнейшей проверки): TTTGTGATGC
+Интроны: [(14628297, 14628498), (14628788, 14629235), (14629347, 14630781), (14631018, 14632153)]
+Позиция конца: 14632942
+--------------------------------------
+--------------------------------------
+Сейчас проверяется белок p01
+Результат утвержден!
+Хромосома: chr1
+Белок: p01
+Позиция начала: 37174
+Вероятный сайт связывания(для дальнейшей проверки): AACAAAATGG
+Интроны: [(37621, 38459)]
+Позиция конца: 39395
+--------------------------------------
+Результат утвержден!
+Хромосома: chr1
+Белок: p01
+Позиция начала: 397145
+Вероятный сайт связывания(для дальнейшей проверки): AACCAAATGG
+Интроны: [(397580, 398888)]
+Позиция конца: 399824
+--------------------------------------
+--------------------------------------
+Сейчас проверяется белок p04
+Результат утвержден!
+Хромосома: chr5
+Белок: p04
+Позиция начала: 2055502
+Вероятный сайт связывания(для дальнейшей проверки): GAGATCATGT
+Интроны: [(2055558, 2055716), (2055861, 2056132)]
+Позиция конца: 2056306
+--------------------------------------
+--------------------------------------
+Сейчас проверяется белок p02
+--------------------------------------
+Сейчас проверяется белок p05
+
+Step 4 - Save result
+------------------ Результат ---------------------
+chr4 [14628102, 14632942]
+chr1 [37174, 39395]
+chr1 [397145, 399824]
+chr5 [2055502, 2056306]
+
